@@ -198,6 +198,24 @@
       }
     },
     {
+      "displayName": "Goodwill Industries",
+      "id": "",
+      "locationSet": {
+        "include": ["cr", "ca", "mex", "us"]
+      },
+      "matchTags": [
+        "shop/doityourself",
+        "shop/furniture"
+      ],
+      "tags": {
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "name": "Goodwill",
+        "second_hand": "yes",
+        "shop": "charity"
+      }
+    },
+    {
       "displayName": "Habitat for Humanity ReStore",
       "id": "habitatforhumanityrestore-0873d3",
       "locationSet": {
